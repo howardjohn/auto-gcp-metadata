@@ -1,4 +1,4 @@
-package auto_gcp_metadata
+package autogcp
 
 import (
 	"context"
